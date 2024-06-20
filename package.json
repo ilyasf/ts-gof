@@ -1,0 +1,26 @@
+{
+  "name": "ts-gof",
+  "version": "1.0.0",
+  "description": "GoF patterns in TypeScript",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ilyasf/ts-gof.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "ilias.fasikhov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ilyasf/ts-gof/issues"
+  },
+  "homepage": "https://github.com/ilyasf/ts-gof#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
